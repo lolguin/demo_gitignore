@@ -1,2 +1,1 @@
-# demo_gitignore
-Testing git ignore
+# Demo of Gitignore
